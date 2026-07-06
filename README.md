@@ -35,3 +35,8 @@ The game is started by the `brain-even` command.
 The game is started by the `brain-calc` command.
 
 [![asciicast](https://asciinema.org/a/yYjEcCSw5cRpSiun.svg)](https://asciinema.org/a/yYjEcCSw5cRpSiun)
+
+# Brain gcd
+The game is started by the `brain-gcd` command.
+
+[![asciicast](https://asciinema.org/a/chOhatAUpg9tVC3s.svg)](https://asciinema.org/a/chOhatAUpg9tVC3s)
