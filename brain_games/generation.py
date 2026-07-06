@@ -1,8 +1,10 @@
 import random
 
+
 def get_number():
     number = random.randint(1, 100)
     return number
+
 
 def get_operator():
     operators = [

@@ -31,7 +31,7 @@ The game is started by the `brain-even` command.
 
 [![asciicast](https://asciinema.org/a/9EJ5pQJptVOUWG7u.svg)](https://asciinema.org/a/9EJ5pQJptVOUWG7u)
 
-# Brain even
+# Brain calc
 The game is started by the `brain-calc` command.
 
 [![asciicast](https://asciinema.org/a/yYjEcCSw5cRpSiun.svg)](https://asciinema.org/a/yYjEcCSw5cRpSiun)
