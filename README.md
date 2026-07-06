@@ -29,12 +29,12 @@ Before launching, build the package using the `make build` command from the game
 # Brain even 
 The game is started by the `brain-even` command.
 
-[![asciicast](https://asciinema.org/a/9EJ5pQJptVOUWG7u.svg)](https://asciinema.org/a/9EJ5pQJptVOUWG7u)
+[![asciicast](https://asciinema.org/a/teHbtt5ntG8twJef.svg)](https://asciinema.org/a/teHbtt5ntG8twJef)
 
 # Brain calc
 The game is started by the `brain-calc` command.
 
-[![asciicast](https://asciinema.org/a/yYjEcCSw5cRpSiun.svg)](https://asciinema.org/a/yYjEcCSw5cRpSiun)
+[![asciicast](https://asciinema.org/a/K7ZwRNTHItsA756t.svg)](https://asciinema.org/a/K7ZwRNTHItsA756t)
 
 # Brain gcd
 The game is started by the `brain-gcd` command.
