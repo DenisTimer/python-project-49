@@ -21,7 +21,17 @@
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DenisTimer_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DenisTimer_python-project-49)
 
-# Brain even. Launch instructions. 
-Before launching, build the package with the `make build` command from the game directory. The game is launched by the `brain-even` team.
+# Launch instructions
+Before launching, build the package using the `make build` command from the game catalog. Install the package using the `make package-install` command. 
 
-[![asciicast](https://asciinema.org/a/kXoG8KqQ2i848J3T.svg)](https://asciinema.org/a/kXoG8KqQ2i848J3T)
+[![asciicast](https://asciinema.org/a/okGpFtZS1F2U1BJV.svg)](https://asciinema.org/a/okGpFtZS1F2U1BJV)
+
+# Brain even 
+The game is started by the `brain-even` command.
+
+[![asciicast](https://asciinema.org/a/9EJ5pQJptVOUWG7u.svg)](https://asciinema.org/a/9EJ5pQJptVOUWG7u)
+
+# Brain even
+The game is started by the `brain-calc` command.
+
+[![asciicast](https://asciinema.org/a/yYjEcCSw5cRpSiun.svg)](https://asciinema.org/a/yYjEcCSw5cRpSiun)
