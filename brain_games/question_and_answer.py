@@ -1,6 +1,7 @@
 from brain_games.games.game_calc import question_and_answer_calc
 from brain_games.games.game_even import question_and_answer_even
 from brain_games.games.game_gcd import question_and_answer_gcd
+from brain_games.games.game_progression import question_and_answer_progression
 
 
 def get_question_and_answer(name_game):
@@ -12,4 +13,6 @@ def get_question_and_answer(name_game):
             result = question_and_answer_calc()
         case 'brain_gcd':
             result = question_and_answer_gcd()
+        case 'brain_progression':
+            result = question_and_answer_progression()
     return result

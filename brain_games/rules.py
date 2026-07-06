@@ -7,5 +7,7 @@ def get_rules_brain(name_game: str) -> str:
             result = 'What is the result of the expression?'
         case 'brain_gcd':
             result = 'Find the greatest common divisor of given numbers.'
+        case 'brain_progression':
+            result = 'What number is missing in the progression?'
 
     return result
