@@ -1,3 +1,3 @@
-def incorrect_answer(answer, result, name):
-    print(f'{answer} is wrong answer ;(. Correct answer was {result}.')
+def incorrect_answer(answer, correct_answer, name):
+    print(f'{answer} is wrong answer ;(. Correct answer was {correct_answer}.')
     print(f"Let's try again, {name}!")
