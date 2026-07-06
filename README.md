@@ -20,3 +20,5 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DenisTimer_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DenisTimer_python-project-49)
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DenisTimer_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DenisTimer_python-project-49)
+
+[![asciicast](https://asciinema.org/a/kXoG8KqQ2i848J3T.svg)](https://asciinema.org/a/kXoG8KqQ2i848J3T)
