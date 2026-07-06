@@ -1,10 +1,10 @@
-from engine import cli
+from brain_games.engine import cli
 
 
 def main():
     print('Welcome to the Brain Games!')
     name = cli.welcome_user()
-    return name
+    return name if __name__ == '__main__' else None
 
 
 if __name__ == '__main__':

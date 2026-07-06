@@ -1,2 +1,2 @@
-def question(text):
+def question(text: str):
     print(f'Question: {text}')

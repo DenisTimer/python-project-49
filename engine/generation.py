@@ -1,5 +1,0 @@
-import random
-
-def number_generation():
-    number = random.randint(1, 100)
-    return number
