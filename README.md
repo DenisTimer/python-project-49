@@ -21,4 +21,7 @@
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DenisTimer_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DenisTimer_python-project-49)
 
+# Brain even. Launch instructions. 
+Перед запуском произвести сборку пакета командой 'make build' из дирриктории игры. Запуск игры произвести командой 'brain even'.
+
 [![asciicast](https://asciinema.org/a/kXoG8KqQ2i848J3T.svg)](https://asciinema.org/a/kXoG8KqQ2i848J3T)
