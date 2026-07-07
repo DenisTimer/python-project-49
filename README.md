@@ -45,3 +45,8 @@ The game is started by the `brain-gcd` command.
 The game is started by the `brain-progression` command.
 
 [![asciicast](https://asciinema.org/a/TAE1jWCJWT6B8IuZ.svg)](https://asciinema.org/a/TAE1jWCJWT6B8IuZ)
+
+# Brain progression
+The game is started by the `brain-prime` command.
+
+[![asciicast](https://asciinema.org/a/9hiCXRl6UhLFTT1y.svg)](https://asciinema.org/a/9hiCXRl6UhLFTT1y)

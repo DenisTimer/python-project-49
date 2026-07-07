@@ -9,5 +9,8 @@ def get_rules_brain(name_game: str) -> str:
             result = 'Find the greatest common divisor of given numbers.'
         case 'brain_progression':
             result = 'What number is missing in the progression?'
+        case 'brain_prime':
+            result = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
+            
     return result
