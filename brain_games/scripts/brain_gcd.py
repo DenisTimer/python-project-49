@@ -1,9 +1,9 @@
 from brain_games.engine import start_game
-from brain_games.scripts.brain_games import main as greeting
+from brain_games.scripts.brain_games import greet
 
 
 def main():
-    name = greeting()
+    name = greet()
     start_game('brain_gcd', name)
 
 

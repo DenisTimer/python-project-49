@@ -1,10 +1,13 @@
 from brain_games import cli
 
 
-def main():
+def greet():
     print('Welcome to the Brain Games!')
-    name = cli.welcome_user()
-    return name
+    return cli.welcome_user()
+
+
+def main():
+    greet()
 
 
 if __name__ == '__main__':
