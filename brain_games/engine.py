@@ -27,5 +27,5 @@ def start_game(name_game, name_gamer):
             print('Correct!')
         else:
             return incorrect_answer(answer, correct_answer, name_gamer)
-        
+
     print(f'Congratulations, {name_gamer}!')

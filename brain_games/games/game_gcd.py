@@ -2,7 +2,7 @@ from brain_games.generation import get_number
 
 
 def get_correct_answer(a, b) -> str:
-    while True: 
+    while True:
         if b == 0:
             return str(a)
         a, b = b, a % b

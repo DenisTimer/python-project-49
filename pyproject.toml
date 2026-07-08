@@ -1,7 +1,8 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Brain Games — a set of five console games inspired by popular mobile brain-training apps. Each game asks questions you need to answer correctly. Three correct answers in a row wins the round; a wrong answer ends the game and offers you a chance to try again."
+authors = [{ name = "VeveryCold", email = "denis1timerkaev@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
