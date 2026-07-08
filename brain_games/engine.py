@@ -1,6 +1,7 @@
-import prompt 
-from brain_games.rules import get_rules_brain
+import prompt
+
 from brain_games.question_and_answer import get_question_and_answer
+from brain_games.rules import get_rules_brain
 
 
 def is_right(answer: str, correct_answer: str) -> bool:

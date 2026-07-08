@@ -1,7 +1,7 @@
 import random
 
 
-def get_number(start = 1, end = 100):
+def get_number(start=1, end=100):
     number = random.randint(start, end)
     return number
 

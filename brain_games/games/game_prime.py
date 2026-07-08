@@ -1,4 +1,5 @@
 import math
+
 from brain_games.generation import get_number
 
 
@@ -10,6 +11,7 @@ def is_prime_number(number):
             return 'no'
 
     return 'yes'
+
 
 def question_and_answer_prime():
     number = get_number()
